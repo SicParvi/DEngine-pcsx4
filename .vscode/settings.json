@@ -50,5 +50,7 @@
         "utility": "cpp",
         "*.fxh": "cpp",
         "xcb.h": "c"
-    }
+    },
+    "cmake.options.statusBarVisibility": "visible",
+    "terminal.integrated.sendKeybindingsToShell": true
 }
